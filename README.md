@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sundeep. I work as a Data consultant; I design, build and test data pipelines
-- 👀 I’m interested in Computer Vision, Data Engineering, and Data Science
-- 🌱 I’m currently learning Streamlit
+- 👀 I’m interested in AI, and Data Engineering
+- 🌱 I’m currently learning Airflow, Iceberg, and Trino
 - 💞️ I’m looking to collaborate on Kaggle projects
 - 📫 You can reach me here [Kaggle](https://www.kaggle.com/laxmsun)
 
