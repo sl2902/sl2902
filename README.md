@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sundeep. I work as a Data consultant; I design, build and test data pipelines
+- 👋 Hi, I’m S. I work as a Data consultant; I design, build and test data pipelines
 - 👀 I’m interested in AI, and Data Engineering
 - 🌱 I’m currently learning Airflow, Iceberg, and Trino
 - 💞️ I’m looking to collaborate on DE projects
