@@ -1,7 +1,7 @@
-- 👋 Hi, I’m S. I work as a Data consultant; I design, build and test data pipelines
+- 👋 Hi, I’m S. I work in data; I design, build and test data pipelines
 - 👀 I’m interested in AI, and Data Engineering
-- 🌱 I’m currently learning Airflow, Iceberg, and Trino
-- 💞️ I’m looking to collaborate on DE projects
+- 🌱 I’m currently learning AI tools
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 You can reach me here
 
 <!---
